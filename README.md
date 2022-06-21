@@ -7,7 +7,7 @@ Le Dante est un projet qui se sépare en deux parties:
 * Créer un algorithme de création de labyrinthe.
 * Créer un algorithme de résolution de labyrinthe.
 
-
+\-----------------------------------------------------------------------------------------------------
 
 ### A Star
 

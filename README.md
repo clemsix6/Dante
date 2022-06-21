@@ -2,11 +2,22 @@
 
 ### Introduction
 
-Le Dante est un projet ayant comme thème principale, la technologie de pathfinding.
+Le Dante est un projet qui se sépare en deux parties:
+
+* Créer un algorithme de création de labyrinthe.
+* Créer un algorithme de résolution de labyrinthe.
 
 
 
-### Utilisation
+### A Star
+
+![](.gitbook/assets/Astar\_progress\_animation.gif)
+
+Le but de l'algorithme A Star est de trouver le chemin le plus court entre deux points avec un système de propagation orientée vers la destination
+
+
+
+Utilisation
 
 #### Generator
 

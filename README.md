@@ -13,11 +13,11 @@ Le Dante est un projet qui se sépare en deux parties:
 
 ![](.gitbook/assets/Astar\_progress\_animation.gif)
 
-Le but de l'algorithme A Star est de trouver le chemin le plus court entre deux points avec un système de propagation orientée vers la destination
+Le but de l'algorithme A Star est de trouver le chemin le plus court entre deux points avec un système de propagation orientée vers la destination. Cet algorithme est le plus utilisé en raison de son efficacité optimale et de son exhaustivité.
 
 
 
-Utilisation
+### Utilisation
 
 #### Generator
 

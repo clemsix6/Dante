@@ -11,7 +11,7 @@ Le Dante est un projet qui se sépare en deux parties:
 
 ### Map
 
-Les maps sont composées de deux caractères; les "\*" et les "X". Les "X" représentent les mûrs du labyrinthe, et les "\*" les zone vides. Par conséquent pour résoudre le labyrinthe on ne peut marcher uniquement que sur les "\*". Lorsqu'une map à été résolue, les "o" sont les caractères qui constituent le chemin trouvé.
+Les maps sont composées de deux caractères; les "\*" et les "X". Les "X" représentent les mûrs du labyrinthe, et les "\*" les zones vides. Par conséquent pour résoudre le labyrinthe on ne peut marcher uniquement que sur les "\*". Lorsqu'une map a été résolue, les "o" sont les caractères qui constituent le chemin trouvé.
 
 
 
@@ -19,7 +19,7 @@ Les maps sont composées de deux caractères; les "\*" et les "X". Les "X" repr�
 
 ![](.gitbook/assets/Astar\_progress\_animation.gif)
 
-Le but de l'algorithme A Star est de trouver le chemin le plus court entre deux points avec un système de propagation orientée vers la destination. Cet algorithme est le plus utilisé en raison de son efficacité optimale et de son exhaustivité. Dans le programme l'algorithme A\* permet de trouver le chemin le plus court entre le coin supérieur gauche et le coin inférieur droit.
+Le but de l'algorithme A Star est de trouver le chemin le plus court entre deux points avec un système de propagation orientée vers la destination. Cet algorithme est le plus utilisé en raison de son efficacité optimale et de son exhaustivité. Dans le programme, l'algorithme A\* permet de trouver le chemin le plus court entre le coin supérieur gauche et le coin inférieur droit.
 
 
 
@@ -52,7 +52,7 @@ Permet de résoudre un labyrinthe grâce à un algorithme de pathfinding.
 
 ./solver map\_filename
 
-Où map\_filename est le nom du fichier de la map, qui peut être génée avec le ./generator ci-dessus.t
+Où map\_filename est le nom du fichier de la map, qui peut être génée avec le ./generator ci-dessus.
 
 Exemple:
 
